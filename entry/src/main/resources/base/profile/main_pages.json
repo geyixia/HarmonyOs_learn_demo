@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/login",
+    "pages/components/Case",
+    "pages/components/eventCase",
+    "pages/components/stateCase"
+  ]
+}
